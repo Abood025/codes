@@ -16,7 +16,7 @@ body {
   align-items: center;
   font-size: 1.125em;
   line-height: 1.6;
-  color: var(--clr-body);
+  color: red;
   background: var(--clr-bg);
 }
 
